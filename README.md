@@ -1,4 +1,4 @@
-## Getting Started
+## BugFlow: Streamline your bug and issue tracking process with BugFlow. Designed for agile teams, it offers an intuitive interface and powerful features to keep your projects on track.
 To get started, follow these steps:
 
 1. Clone this repository to your local machine. 
